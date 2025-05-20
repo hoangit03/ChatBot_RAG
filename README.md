@@ -27,7 +27,7 @@ Chatbot có khả năng:
 ### Tải source
 
 ```bash
-git clone https://github.com/watatek/ChatbotAI.git
+git clone https://github.com/hoangit03/ChatBot_RAG.git
 cd ChatbotAI
 ```
 
