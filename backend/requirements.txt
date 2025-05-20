@@ -1,0 +1,14 @@
+langchain==0.3.23
+langchain-community==0.3.21
+langchain-huggingface==0.1.2
+pypdf==5.4.0
+faiss-cpu==1.10.0
+fpdf==1.7.2
+urllib3==2.4.0
+reportlab==4.4.0
+beautifulsoup4==4.13.4
+uvicorn==0.34.2
+fastapi==0.115.9
+selenium==4.31.0
+hf-xet==1.0.3
+PyMuPDF==1.25.5
