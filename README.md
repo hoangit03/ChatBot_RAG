@@ -21,9 +21,6 @@ Chatbot có khả năng:
 | Vector DB  | FAISS/Chroma                                |
 | Embedding  | SentenceTransformers                           |
 
-## Dataset
-
-Link Google Drive: https://drive.google.com/drive/folders/1vWZiTOWALQaMjCASfdkpfjk3oo5x3q1A
 
 ## 📦 Cài đặt
 
